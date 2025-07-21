@@ -1,8 +1,6 @@
 """
 1- Programa de Saudação
-
-Crie um programa que imprima a mensagem "Olá, mundo!" na tela.
-
+* Crie um programa que imprima a mensagem "Olá, mundo!" na tela.
 """
 
-print("Hello, World!")
+print("Olá, Mundo!")
